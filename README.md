@@ -7,5 +7,5 @@
 #### Moje ulubione narzędzia testerskie
 - JIRA
 - APPIUM
-- 
+- inne
 
